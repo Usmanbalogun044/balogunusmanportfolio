@@ -5,7 +5,7 @@ import { FaTwitter } from "react-icons/fa";
 import { FaLinkedin } from "react-icons/fa";
 
 import { Link } from "react-router-dom";
-
+import webImage from "/Images/web.png";
 
 const Hero = () => {
   return (
@@ -45,7 +45,7 @@ const Hero = () => {
             </div>
           </div>
           <div className="lg:w-1/2">
-            <img className="mx-auto" src="/web.png" />
+          <img className="mx-auto" src={webImage} />
 
           </div>
         </div>
