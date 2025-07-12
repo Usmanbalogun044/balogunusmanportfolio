@@ -49,7 +49,7 @@ const Homeabout = () => {
               </span>
             </div>
             <p className="text-white tracking-wide">
-              Hello and welcome to my portfolio! I'm Balogun Usman Temitope, a 
+              Hello and welcome to my portfolio! I'm  Usman Temitope Balogun, a 
               Backend Developer dedicated to building scalable, secure, and efficient 
               server-side applications. I specialize in crafting APIs, optimizing databases, 
               and ensuring seamless functionality for web applications. I enjoy solving complex 

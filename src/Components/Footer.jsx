@@ -11,7 +11,7 @@ const Footer = () => {
           <div className="text-center md:text-left mb-6 md:mb-0 max-w-md">
             <h3 className="text-lg font-semibold mb-2">About Me</h3>
             <p className="text-sm">
-              Hi, I'm Balogun Usman, a passionate backend developer dedicated to building 
+              Hi, I'm Usman Balogun , a passionate backend developer dedicated to building 
               scalable, secure, and efficient web applications. Let's create seamless 
               solutions together!
             </p>  
